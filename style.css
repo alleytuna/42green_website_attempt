@@ -1,0 +1,35 @@
+.topnav
+{
+    background-color: #0b5394;
+    overflow: hidden;
+}
+
+.topnav a
+{
+    float: left;
+    color: #50e67f;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    font-family: 'Rockwell';
+}
+
+h2, h1
+{
+    color: #0b5394;
+    font-weight: bold;
+    text-align: justify;
+    font-family: 'Rockwell', Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+p
+{
+    text-align: justify;
+    font-family: Helvetica, sans-serif;
+}
+
+p.special
+{
+    border: #50e67f 2px;
+}
