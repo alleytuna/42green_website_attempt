@@ -2,7 +2,7 @@
 
 some guidelines
 - choose a green webhost (regulated tech waste management, green data centers or CDN datacenter located near users - edge computing, social inclusion taken into account, renewable energies, low carbon) or a Raspberry Pi (sounds good for static website)
-    to explore: aiso.net, hostgator, GreenGeeks, A2 Hosting, iPage, HostPapa, Acorn Host
+    to explore: aiso.net, hostgator, GreenGeeks, A2 Hosting, iPage, HostPapa, Acorn Host, or even git hub pages
 - opt for a static website when possible (reduce redirections)
 - using fewer JS widgets or none, reducing image/video, focus on a quick loading (test site speed / caching solutions)
 - create a responsive website (format adapted to each device: smartphone, desktop computer, tablet)
