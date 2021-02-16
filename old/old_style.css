@@ -1,0 +1,51 @@
+
+body
+{
+    background-image: url(images/bg.png);
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.topnav
+{
+    overflow: hidden;
+}
+
+.topnav a
+{
+    float: right;
+    color: white;
+    padding: 14px 16px;
+    font-size: 20px;
+    font-family: 'Rockwell';
+}
+
+h2, h1
+{
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+    font-family: 'Rockwell', Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+p
+{
+    color: #b8b8d6;
+    text-align: justify;
+    font-family: Helvetica, sans-serif;
+}
+
+p.special
+{
+    border: white 2px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
