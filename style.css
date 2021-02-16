@@ -10,14 +10,9 @@ nav
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	background-color: grey;
+	background-color: #f7f7f7;
 	box-shadow: 3px 3px 15px black;
-}
-nav h1
-{
 	font-family: 'Rockwell', Helvetica, sans-serif;
-	color: #717171;
-	font-size: 20px;
 }
 nav .onglets
 {
@@ -26,9 +21,8 @@ nav .onglets
 }
 nax .onglets a
 {
-	font-family: 'Rockwell', Helvetica, sans-serif;
 	text-decoration: none;
-	color: blue;
+	color: #006666;
 	margin-right: 10px;
 }
 
